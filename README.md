@@ -5,3 +5,4 @@
 ``kawafx42@kawakami-sosai.co.jp`` - спам від рашистів про фейкові замінування.</br></br>
 11/2024</br></br>
 ``ocoyhconstko@gmail.com`` - "нігерійський" спам. </br>
+``kazuhiko@tanico.co.jp`` - фейкові замінування. </br>
