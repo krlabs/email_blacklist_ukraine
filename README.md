@@ -6,3 +6,4 @@
 11/2024</br></br>
 ``ocoyhconstko@gmail.com`` - "нігерійський" спам. </br>
 ``kazuhiko@tanico.co.jp`` - фейкові замінування. </br>
+``josef@tauber.co.at`` - фейкові замінування. </br>
