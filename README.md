@@ -7,5 +7,6 @@
 ``ocoyhconstko@gmail.com`` - "нігерійський" спам. </br>
 ``kazuhiko@tanico.co.jp`` - фейкові замінування. </br>
 ``josef@tauber.co.at`` - фейкові замінування. </br>
+
 **12/2024**  
 ``olhfz@a.dwceczfiro.ru`` - фішинг, скам, скап, росія.
