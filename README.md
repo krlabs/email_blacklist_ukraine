@@ -9,4 +9,4 @@
 ``josef@tauber.co.at`` - фейкові замінування. </br>
 
 **12/2024**  
-``olhfz@a.dwceczfiro.ru`` - фішинг, скам, скап, росія.
+``olhfz@a.dwceczfiro.ru`` - фішинг, скам, спам, росія.
