@@ -1,1 +1,1 @@
-
+For view EML files use any email client. For example, Mozilla Thunderbird or Microsoft Outlook.
