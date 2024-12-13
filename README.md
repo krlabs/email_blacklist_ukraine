@@ -10,6 +10,6 @@
 
 **12/2024**  
 ``olhfz@a.dwceczfiro.ru`` - фішинг, скам, спам, росія.
-``homologacao@tecnuv.com.br`` - фейкові листи про замінування.  
-``saichol.k@quarterchaophraya.com`` - фейкові листи про замінування.
-``tomo@syofuen.co.jp`` - фейкові листи про замінування.
+``homologacao@tecnuv.com.br`` - фейкові листи про замінування.    
+``saichol.k@quarterchaophraya.com`` - фейкові листи про замінування.  
+``tomo@syofuen.co.jp`` - фейкові листи про замінування.  
