@@ -13,3 +13,4 @@
 ``homologacao@tecnuv.com.br`` - фейкові листи про замінування.    
 ``saichol.k@quarterchaophraya.com`` - фейкові листи про замінування.  
 ``tomo@syofuen.co.jp`` - фейкові листи про замінування.  
+``dave@mascots2go.com`` - фейкові листи про замінування.
