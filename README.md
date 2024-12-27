@@ -14,4 +14,6 @@
 ``saichol.k@quarterchaophraya.com`` - фейкові листи про замінування.  
 ``tomo@syofuen.co.jp`` - фейкові листи про замінування.  
 ``dave@mascots2go.com`` - фейкові листи про замінування.  
-``ericjonesmyemail@gmail.com`` - спам через форми зворотного зв'язку, пропонує якихось лідів xttps://resultleadgeneration.com.
+``ericjonesmyemail@gmail.com`` - спам через форми зворотного зв'язку, пропонує якихось лідів xttps://resultleadgeneration.com.  
+``skoldin@racenet.nu``- фейкові листи від імені "Нової Пошти"  
+``giuseppe.giuffre@crs.lombardia.it`` - фейкові листи від імені "Нової Пошти"  
