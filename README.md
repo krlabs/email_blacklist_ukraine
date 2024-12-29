@@ -17,4 +17,4 @@
 ``ericjonesmyemail@gmail.com`` - спам через форми зворотного зв'язку, пропонує якихось лідів xttps://resultleadgeneration.com.  
 ``skoldin@racenet.nu``- фейкові листи від імені "Нової Пошти"  
 ``giuseppe.giuffre@crs.lombardia.it`` - фейкові листи від імені "Нової Пошти"  
-``trs.co.office@gmail.com`` - інформаційно-психологічна операція на квазірелігійну тематику (російська шовіністична секта)
+``trs.co.office@gmail.com`` - інформаційно-психологічна операція на квазірелігійну тематику (російська шовіністична секта, один із її учасників https://www.facebook.com/yuriy.yakubtsov.54/)
