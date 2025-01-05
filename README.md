@@ -18,3 +18,6 @@
 ``skoldin@racenet.nu``- фейкові листи від імені "Нової Пошти"  
 ``giuseppe.giuffre@crs.lombardia.it`` - фейкові листи від імені "Нової Пошти"  
 ``trs.co.office@gmail.com`` - інформаційно-психологічна операція на квазірелігійну тематику (російська шовіністична секта, один із її учасників https://www.facebook.com/yuriy.yakubtsov.54/, https://www.youtube.com/watch?v=6YtGyHzsPOw)
+
+**01/2022**
+``dave@mascots2go.com`` - фейкові повідомлення про замінування, ніби від представника ХАМАС.
