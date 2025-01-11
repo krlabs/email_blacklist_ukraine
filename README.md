@@ -21,4 +21,4 @@
 
 **01/2025**  
 ``dave@mascots2go.com`` - фейкові повідомлення про замінування, ніби від представника ХАМАС.  
-``koybgsdrafc@ihatetnd.com`` - сектант-"контактер" SKiLLsSoLoN, https://www.youtube.com/@SKiLLsSoLoN/videos
+``koybgsdrafc@ihatetnd.com`` - інформаційно-психологічні операції, сектант-"контактер" SKiLLsSoLoN, https://www.youtube.com/@SKiLLsSoLoN/videos
