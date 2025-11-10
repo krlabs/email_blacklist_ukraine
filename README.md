@@ -25,13 +25,13 @@
 
 **10-11/2025** 
 
-``malikrizwanahmed999dc@ayacucho.edu.pe`` 550 Blacklisted  
-``petercookjr485dc@ayacucho.edu.pe`` 550 Blacklisted  
-``premm793@arsenalpamieci.org`` 550 Blacklisted  
-``Miya@snobiehts.com`` 550 Blacklisted  
-``quintanoada99@gmail.com`` 550 Blacklisted  
-``mk6@mk.mightmayasll.xyz`` 550 Blacklisted  
-``renee.lucasmz@ugelilo.moqueguaeduca.edu.pe`` 550 Blacklisted  
+``malikrizwanahmed999dc@ayacucho.edu.pe`` - спам/фішинг через фейкову подію Google Calendar  
+``petercookjr485dc@ayacucho.edu.pe`` - спам/фішинг через фейкову подію Google Calendar  
+``renee.lucasmz@ugelilo.moqueguaeduca.edu.pe`` спам/фішинг через фейкову подію Google Calendar  
+``premm793@arsenalpamieci.org`` - 550 Blacklisted  
+``Miya@snobiehts.com`` - 550 Blacklisted  
+``quintanoada99@gmail.com`` - 550 Blacklisted  
+``mk6@mk.mightmayasll.xyz`` - 550 Blacklisted  
  
 Російські спамери (забанено пул):  
 ``196.251.86.106``  
